@@ -6,7 +6,7 @@
 
 I am a Bioinformatician located in the Netherlands.
 
-- 🔭 I’m currently working at [Cergentis](https://www.cergentis.com/)
+- 🔭 I’m currently working at [Solvias NL](https://www.solvias.com/)
 
 
 ### 🛠️ Languages, tools, technologies
